@@ -1,5 +1,5 @@
-matplotlib==3.7.1
-numpy==1.25.0
-scipy==1.11.0
-ipympl==0.8.5
-ipywidgets==8.0.5
+matplotlib
+numpy
+scipy
+ipympl
+ipywidgets
