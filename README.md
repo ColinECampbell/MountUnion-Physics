@@ -1,6 +1,6 @@
 # MountUnion-Physics
 Interactive Programming Labs for courses at the University of Mount Union. 
 
-Note that running via mybinder.org results in some slow animations. On mybinder.org you also need to disable tex (comment out `plt.rcParams['text.usetex'] = True`) and use `%matplotlib widget` to run the simulations; mybinder.org may be abandoned if a convenient speedup workaround can't be found.  
+The activities run hand-in-hand with handouts provided to students in the lab. Instructors from other institutions interested in these files are welcome to reach out to me.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ColinECampbell/MountUnion-Physics/HEAD)
